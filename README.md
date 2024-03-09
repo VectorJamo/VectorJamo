@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vectorjamo" alt="vectorjamo" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced REACT and Node.js**
+- 🌱 I’m currently learning **Backend development**
 
-- 👯 I’m looking to collaborate on **making web apps**
+- 👯 I’m looking to collaborate on **making fullstack apps**
 
 - 📫 How to reach me **nsuraj552@gmail.com**
 
