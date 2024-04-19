@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Neupane</h1>
-<h3 align="center">A passionate Full Stack Web and Mobile app developer.</h3>
+<h3 align="center">A passionate Full Stack Web and App developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vectorjamo&label=Profile%20views&color=0e75b6&style=flat" alt="vectorjamo" /> </p>
 
