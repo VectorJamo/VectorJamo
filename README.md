@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vectorjamo" alt="vectorjamo" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack development**
+- 🌱 I’m currently learning **Fullstack development and game development.**
 
 - 👯 I’m looking to collaborate on **making fullstack apps with REACT and Express.js with MongoDB**
 
