@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suraj Neupane</h1>
-<h3 align="center">Game developer, low level coder and Full stack developer.</h3>
+<h3 align="center">Backend developer, low level coder and Game developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vectorjamo&label=Profile%20views&color=0e75b6&style=flat" alt="vectorjamo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vectorjamo" alt="vectorjamo" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack development and game development.**
+- 🌱 I’m currently learning **Data analysis using Python. Also working on implementing encryption ciphers and writing communication protocols.**
 
-- 👯 I’m looking to collaborate on **making fullstack apps with REACT and Express.js with MongoDB**
+- 👯 I’m looking to collaborate on **C++ and Python projects in above mentioned fields.**
 
 - 📫 How to reach me **nsuraj552@gmail.com**
 
