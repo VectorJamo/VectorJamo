@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Neupane</h1>
-<h3 align="center">Machine Learning Enthusiast | Games and Game Engine dev in C++ and Java | Networking and Cybersecurity </h3>
+<h3 align="center">Machine Learning Enthusiast | Deep Learning | Games/Game Engine and Low Level Stuff in C/C++/Java | Networking and Cybersecurity </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vectorjamo&label=Profile%20views&color=0e75b6&style=flat" alt="vectorjamo" /> </p>
 
