@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently **writing real-time performance critical applications and working on making games from scratch.**
 
-- 👯 I’m looking to collaborate on **ML/Cybersecurity Projects, Writing Games & Game Engine's from scratch.**
+- 👯 I’m looking to collaborate on **ML/Cybersecurity Projects, writing games & game engines from scratch.**
 
 - 📫 How to reach me **nsuraj552@gmail.com**
 
