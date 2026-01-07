@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and working on making games from scratch.**
 
-- 👯 I’m looking to collaborate on **Machine Learning and writing efficient systems from scratch.**
+- 👯 I’m looking to collaborate on **ML/Cybersecurity Projects, Writing Games & Game Engine's from scratch.**
 
 - 📫 How to reach me **nsuraj552@gmail.com**
 
