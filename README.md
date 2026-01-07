@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vectorjamo" alt="vectorjamo" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and working on making games from scratch.**
+- 🌱 I’m currently learning **Writing real-time performance critical applications and working on making games from scratch.**
 
 - 👯 I’m looking to collaborate on **ML/Cybersecurity Projects, Writing Games & Game Engine's from scratch.**
 
